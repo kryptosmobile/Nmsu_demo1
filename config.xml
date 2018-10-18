@@ -2,8 +2,8 @@
     <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         id = "com.kryptosmobile.nmsu2" version   = "1.0.0">
-        <name>NMSU Demo 2</name>
-        <description>NMSU Demo 2</description>
+        <name>NMSUDemo1</name>
+        <description>NMSUDemo1</description>
         <author href="http://kryptosmobile.com" email="info@kryptosmobile.com">Kryptos Mobile Team</author>
         <feature name="http://api.phonegap.com/1.0/device" />
         <preference name="permissions"                value="none"/>
